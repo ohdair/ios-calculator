@@ -5,7 +5,7 @@
 <span>  </span>
 <img width="45%" src="https://user-images.githubusercontent.com/79438622/215037774-a71cc81e-dcdb-4c76-b11c-a6f16c949a7b.gif">
 ## 🗂️ 프로젝트 파일 구조
-![188132535-8bc81913-7863-4877-88f9-0f8e811a52bd](https://user-images.githubusercontent.com/45708630/213386825-29d5bd14-4f73-49e0-9862-4d5939af10cb.jpeg)
+<img src="https://user-images.githubusercontent.com/45708630/213386825-29d5bd14-4f73-49e0-9862-4d5939af10cb.jpeg" width="80%">
 
 ---
 ## 🕵🏻 역할 분배
